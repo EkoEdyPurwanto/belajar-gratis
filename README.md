@@ -23,7 +23,7 @@ ___
 ## Author
 - **Eko Edy Purwanto**
 
-Lihat juga daftar [**kontributor**]() yang berpartisipasi dalam proyek ini.
+Lihat juga daftar [**kontributor**](https://github.com/EkoEdyPurwanto/belajar-gratis/graphs/contributors) yang berpartisipasi dalam proyek ini.
 ___
 ## Lisensi
 Proyek ini dilisensikan di bawah **Creative Commons Zero v1.0 Universal (CC0 1.0 Universal)** - lihat file [LICENSE](LICENSE) untuk detailnya.
