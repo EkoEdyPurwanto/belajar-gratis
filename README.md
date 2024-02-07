@@ -3,7 +3,7 @@
 + _**kategori**_
     + **Vidio**
         - [Bahasa Pemrogramman](vidio/bahasa-pemrogramman.md)
-        - Database
+        - [Database](vidio/database.md)
     + **Buku**
         - Bahasa Pemrogramman
         - Database
