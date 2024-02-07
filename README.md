@@ -17,7 +17,7 @@
     
 ___
 ## Kontribusi
-Jika Anda menemukan kesalahan, memiliki saran, atau ingin berkontribusi pada proyek ini, Silakan baca [panduan kontribusi](contributing.md) terlebih dahulu.
+Jika Anda menemukan kesalahan, memiliki saran, atau ingin berkontribusi pada proyek ini, Silakan baca [panduan kontribusi](docs/CONTRIBUTING.md) terlebih dahulu.
 
 ___
 ## Author
