@@ -4,6 +4,7 @@
     + **Vidio**
         - [Bahasa Pemrogramman](vidio/bahasa-pemrogramman.md)
         - [Database](vidio/database.md)
+        - [Version Control Systems (VCS)](vidio/vcs.md)
     + **Buku**
         - Bahasa Pemrogramman
         - Database
